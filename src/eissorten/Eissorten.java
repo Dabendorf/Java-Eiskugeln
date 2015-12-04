@@ -121,7 +121,7 @@ public class Eissorten {
 		}
 		
 	    geldvorhanden.setText("20.00");
-	    geldvorhanden.setToolTipText("Menge an Kugeln");
+	    geldvorhanden.setToolTipText("Verfügbares Geld");
 	    geldvorhanden.setHorizontalAlignment(SwingConstants.RIGHT);
 	    buttonSpendieren.setMargin(new Insets(2, 2, 2, 2));
 	    buttonSpendieren.addActionListener(new ActionListener() { 
